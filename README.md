@@ -44,6 +44,8 @@ npm i
 
 npm start
 
+http://localhost:3001
+
 > for backend folder
 
 cd backend
