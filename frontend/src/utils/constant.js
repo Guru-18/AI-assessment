@@ -1,0 +1,2 @@
+export const BASE_URL = process.env.NODE_ENV === 'development' ? process.env.REACT_APP_BACKEND_API_URL : process.env.REACT_APP_BACKEND_API_URL_PRODUCTION 
+export const PUBLIC_URL = process.env.NODE_ENV === 'development' ? process.env.REACT_APP_BACKEND_PUBLIC_URL : process.env.REACT_APP_BACKEND_PUBLIC_URL_PRODUCTION 
